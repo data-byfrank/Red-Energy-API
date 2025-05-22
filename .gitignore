@@ -1,0 +1,8 @@
+#Warning! The below files could contain personal information. Particularly the database file. 
+#Its recommended these are not removed .gitignore under any circumstances. Especially if working with a remote
+#repo like github. 
+.env
+__pycache__/
+*.py[cod]
+energy_data.db
+redenergy_usage_data.log
