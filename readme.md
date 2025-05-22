@@ -40,7 +40,7 @@ This project allows you to authenticate with the Red Energy API, fetch customer,
 
 ## Usage & Disclaimer
 
-This work is for personal use and I am in way affiliated with Red Energy. 
+This work is for personal use and I am in no way affiliated with Red Energy. 
 
 **Disclaimer:**  
 This project has not been fully tested and may contain bugs or unexpected behavior. Use it at your own risk. The author is not responsible for any issues, data loss, or damages that may result from using this software.
