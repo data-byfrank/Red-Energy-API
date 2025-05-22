@@ -1,6 +1,6 @@
 # Red Energy API Data Manager
 
-This project allows you to authenticate with the Red Energy API, fetch customer, property, and usage interval data, and store it in a local SQLite database. It is designed for automation and data analysis of your Red Energy usage. It should work for customers with multiple properties but I am not in lucky enough position to test this 😉.
+This project allows you to authenticate with the Red Energy API, fetch customer, property, and usage interval data, and store it in a local SQLite database. It is designed for automation and data analysis of your Red Energy usage. It should work for customers with multiple properties but I am not in a lucky enough position to test this 😉.
 
 ## Features
 
